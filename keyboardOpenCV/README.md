@@ -12,7 +12,7 @@
 >>* https://github.com/google/mediapipe
 
 # ACIKLAMA
-> mediapipe ile hand detect edilir ve mediapipe dökümanı içerisinde bulunan el indexlerinden 8(işaret parmağı ucu) ile 12(orta parmak ucu) arasındaki mesafeye göre pynput kullanılarak keyboard yada mouse de basma işlemi yapılabilir.
+> mediapipe ile hand detect edilir ve mediapipe dökümanı içerisinde bulunan el indexlerinden 8(işaret parmağı ucu) ile 5(işaret parmak başlangıcı) arasındaki mesafeye göre pynput kullanılarak keyboard yada mouse de basma işlemi yapılabilir.
 # SONUC
 >## 1-Referans Noktalarının tanıtılması
 >![Image of Onay](https://i.hizliresim.com/c2rzqzj.PNG)
