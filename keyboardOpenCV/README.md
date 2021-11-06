@@ -4,6 +4,11 @@
 * **mediapipe@0.8.7** for hand detect
 * **pynput@1.7.3** for keyboard press
 * **opencv-python@4.5.4.58** for image processing
+# REFERANS LINKLERI
+* https://pypi.org/project/pynput/
+* https://pypi.org/project/opencv-python/
+* https://github.com/cvzone/cvzone
+* https://github.com/google/mediapipe
 # ACIKLAMA
 > mediapipe ile hand detect edilir ve mediapipe dökümanı içerisinde bulunan el indexlerinden 8(işaret parmağı ucu) ile 12(orta parmak ucu) arasındaki mesafeye göre pynput kullanılarak keyboard yada mouse de basma işlemi yapılabilir.
 # SONUC
